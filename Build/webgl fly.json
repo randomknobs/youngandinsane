@@ -1,0 +1,11 @@
+{
+"companyName": "AF",
+"productName": "Young and Insane",
+"dataUrl": "webgl fly.data.unityweb",
+"asmCodeUrl": "webgl fly.asm.code.unityweb",
+"asmMemoryUrl": "webgl fly.asm.memory.unityweb",
+"asmFrameworkUrl": "webgl fly.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
